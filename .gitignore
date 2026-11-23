@@ -1,0 +1,15 @@
+
+# .NET build files
+bin/
+obj/
+
+# Visual Studio and VS Code
+.vs/
+.vscode/
+
+# macOS files
+.DS_Store
+
+# User-specific files
+*.user
+*.suo
